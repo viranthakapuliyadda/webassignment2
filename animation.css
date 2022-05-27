@@ -1,0 +1,15 @@
+
+
+div{
+    width: 100px;
+    height: 300px;
+    margin: 250px;
+    background-color: rgb(180, 92, 92);
+    color: black;
+    transition: width 1s;
+    transition-delay: 2s;
+}
+div:hover{
+    width: 300px;
+    background-color: rgb(116, 70, 70);
+}
